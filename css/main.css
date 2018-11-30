@@ -1,0 +1,57 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.col-md-3, footer{
+    background: #075d8c;
+}
+
+h2, h5{
+    background: #034a72;
+}
+
+h5{
+    padding-left: 10px;
+}
+
+.languages p {
+    padding-left: 10px;
+}
+
+img{
+    border: solid 8px #034a72;
+}
+
+li{
+    list-style: none;
+    text-align: left;
+}
+
+ul{
+    padding: 0;
+    padding-left: 10px;
+}
+
+.col-md-9 ul{
+    padding: 0;
+}
+
+.hobbies i{
+    font-size: 50px;
+}
+
+footer{
+    border-top: solid 2px #034a72;
+}
+
+.sfooter p{
+     background: #034a72;
+     margin: 0;
+     padding: 0;
+}
+
+.facebook, .instagram{
+    color: white;
+}
+
+
