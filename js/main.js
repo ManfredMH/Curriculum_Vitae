@@ -13,14 +13,3 @@ sr.reveal('.information, .languages, .pro-skills, .personality', {
     distance: '300px'
 });
 
-sr.reveal('.col-md-9', {
-    duration: 2000,
-    origin: 'top',
-    distance: '300px'
-});
-
-sr.reveal('.footer, .sfooter', {
-    duration: 2000,
-    origin: 'bottom',
-    distance: '50px'
-});
